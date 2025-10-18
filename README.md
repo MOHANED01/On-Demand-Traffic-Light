@@ -10,7 +10,7 @@
 <h2>📌 Project Overview</h2>
 <p>
   Developed as part of the <strong>Embedded Systems Professional Nanodegree (EGYFWD)</strong>, this project demonstrates 
-  real-time embedded system design using a <strong>layered architecture</strong>, and modular driver development.  
+  embedded system design using a <strong>layered architecture</strong>, and modular driver development.  
   The system models a typical traffic intersection with vehicle and pedestrian lights that operate both automatically and on-demand.
 </p>
 
@@ -24,7 +24,7 @@
 
 <hr />
 
-<h2>⚙️ System Architecture</h2>
+<h2>📌 System Architecture</h2>
 <pre><code>          ┌──────────────────────────┐
           │       ATmega32 MCU       │
           │ ──────────────────────── │
