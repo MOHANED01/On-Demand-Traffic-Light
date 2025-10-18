@@ -45,7 +45,7 @@
   <li> control using <strong>timer interrupts</strong> and <strong>EXTI</strong>.</li>
   <li>Safe pedestrian crossings triggered by a button press.</li>
   <li>Automatic light sequencing in normal operation.</li>
-  <li>Modular and reusable codebase with <strong>HAL</strong> and <strong>MCAL</strong> layers.</li>
+  <li>Modular and reusable codebase with <strong>APP</strong>,<strong>HAL</strong> and <strong>MCAL</strong> layers.</li>
   <li>Non-blocking delays for smooth state transitions.</li>
 </ul>
 
